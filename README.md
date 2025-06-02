@@ -1,7 +1,7 @@
 👋 ¡Hola! Soy Víctor Cuadros  
 Apasionado por el Análisis de Datos, la Inteligencia de Negocio y en constante formación en Ciencia de Datos y Machine Learning.
 
-📍 Con una sólida trayectoria en ventas, marketing y análisis de datos, he desarrollado un enfoque orientado a transformar información en decisiones estratégicas. Actualmente, estoy profundizando en técnicas de aprendizaje automático y modelado de datos, integrando herramientas como Power BI, Python y frameworks modernos de ML en mis proyectos personales.
+📍 Con una sólida trayectoria en análisis de datos y gestion de proyectos, he desarrollado un enfoque orientado a transformar información en decisiones estratégicas. Actualmente, estoy profundizando en técnicas de aprendizaje automático y modelado de datos, integrando herramientas como Power BI, Python y frameworks modernos de ML en mis proyectos personales.
 
 Este GitHub es mi espacio de exploración, donde comparto lo que aprendo y construyo — desde dashboards interactivos hasta modelos de predicción que optimizan procesos reales.
 
